@@ -14,4 +14,4 @@ This project makes use of Python3 through the jupyter notebook implementation. D
 
 [1] eCommerce Purchase History From Electronics Store, MICHAEL KECHINOV, Kaggle, [https://www.kaggle.com/datasets/mkechinov/ecommerce-purchase-history-from-electronics-store](https://www.kaggle.com/datasets/mkechinov/ecommerce-purchase-history-from-electronics-store), last updated 2021, acessed May, 2023.
 
-[2] [REES46 Marketing Platform][https://rees46.com/]
+[2] [REES46 Marketing Platform](https://rees46.com/)
